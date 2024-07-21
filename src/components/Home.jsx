@@ -1,5 +1,5 @@
 import React from 'react'
-import profilePic from '../assets/Hero.png'
+import profilePic from '../assets/Front.png'
 import { AiFillLinkedin, AiFillGithub, AiFillInstagram } from 'react-icons/ai'
 import { TypeAnimation } from 'react-type-animation'
 
