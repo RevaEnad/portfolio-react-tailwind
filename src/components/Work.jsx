@@ -3,7 +3,7 @@ import proj from '../assets/Sample.png'
 
 const Work = () => {
   return (
-    <div className='py-6 max-w-[1200px] mx-auto'>
+    <div className='py-6 max-w-[1200px] mx-auto' id='work'>
         <div class="mx-auto px-4 md:px-8">
             <div class='mb-4 flex items-center justify-between'>
                 <div class="flex flex-col gap-4">
